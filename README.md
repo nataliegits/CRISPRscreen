@@ -1,8 +1,8 @@
 # CRISPR Screen Follow-Up: TXNDC15 in ER Protein Quality Control
 
-A computational follow-up to a CRISPR screen that identified **TXNDC15** as a novel hit alongside known ERAD components **SYVN1** (HRD1) and **MARCHF6**. This notebook asks a retrospective question:
+A computational follow-up to a CRISPR screen that identified **TXNDC15** as a novel hit alongside known ERAD components **SYVN1** (HRD1) and **MARCHF6**. https://www.biorxiv.org/content/10.64898/2026.04.01.715963v1.full This notebook asks a retrospective question:
 
-> Could AI protein models have predicted TXNDC15's functional relationship to MARCHF6 and SYVN1 *before* Co-IP mass spec confirmed it?
+> Could AI protein models have predicted TXNDC15's functional relationship to MARCHF6 and SYVN1?
 
 ## What the notebook does
 
